@@ -1,3 +1,5 @@
+'use client';
+
 import Conclusion from '@/app/components/slides/Conclusion';
 import Hero from '@/app/components/slides/Hero';
 import Herramientas from '@/app/components/slides/Herramientas';
