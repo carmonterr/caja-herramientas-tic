@@ -1,7 +1,7 @@
 import Conclusion from '@/app/components/slides/Conclusion';
 import Hero from '@/app/components/slides/Hero';
 import Herramientas from '@/app/components/slides/Herramientas';
-import ImagenesIA from '@/app/components/slides/ImagenesIA';
+import ImagenesIA from '@/app/components/slides/ImagenesIA.jsx';
 import Tema from '@/app/components/slides/Tema';
 
 export default function Home() {
